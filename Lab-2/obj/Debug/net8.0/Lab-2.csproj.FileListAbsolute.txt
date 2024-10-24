@@ -1,0 +1,14 @@
+E:\ASP .NET\Lab-2\bin\Debug\net8.0\Lab-2.exe
+E:\ASP .NET\Lab-2\bin\Debug\net8.0\Lab-2.deps.json
+E:\ASP .NET\Lab-2\bin\Debug\net8.0\Lab-2.runtimeconfig.json
+E:\ASP .NET\Lab-2\bin\Debug\net8.0\Lab-2.dll
+E:\ASP .NET\Lab-2\bin\Debug\net8.0\Lab-2.pdb
+E:\ASP .NET\Lab-2\obj\Debug\net8.0\Lab-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP .NET\Lab-2\obj\Debug\net8.0\Lab-2.AssemblyInfoInputs.cache
+E:\ASP .NET\Lab-2\obj\Debug\net8.0\Lab-2.AssemblyInfo.cs
+E:\ASP .NET\Lab-2\obj\Debug\net8.0\Lab-2.csproj.CoreCompileInputs.cache
+E:\ASP .NET\Lab-2\obj\Debug\net8.0\Lab-2.dll
+E:\ASP .NET\Lab-2\obj\Debug\net8.0\refint\Lab-2.dll
+E:\ASP .NET\Lab-2\obj\Debug\net8.0\Lab-2.pdb
+E:\ASP .NET\Lab-2\obj\Debug\net8.0\Lab-2.genruntimeconfig.cache
+E:\ASP .NET\Lab-2\obj\Debug\net8.0\ref\Lab-2.dll
